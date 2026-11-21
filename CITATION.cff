@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "OilSec-AI: an AI-assisted OT-security testbed for oil and gas (simulator, detectors, claim verifier, LLM-investigator experiments)"
+type: software
+authors:
+  - family-names: Aljumaily
+    given-names: Mustafa S.
+    orcid: "https://orcid.org/0000-0002-7886-9537"
+    affiliation: "Missan Oil Company, Iraq"
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_USER/oilsec-ai"
+keywords: [operational technology security, industrial control systems, language models, prompt injection, claim verification, oil and gas]
+date-released: "2026-11-21"
+version: "1.0.0"
